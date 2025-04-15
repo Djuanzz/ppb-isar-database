@@ -12,7 +12,9 @@ Tugas ini merupakan implementasi database pada flutter menggunakan Isar database
 
 ### UI Aplikasi Mobile
 
-`git clone https://github.com/Djuanzz/ppb-expense-tracker`
+```sh
+git clone https://github.com/Djuanzz/ppb-expense-tracker
+```
 
 Project tersebut telah menerapkan CRUD menggunakan list untuk kasus Expense Tracker (pencatatan pengeluaran).
 
@@ -82,7 +84,9 @@ Code tersebut digunakan untuk melakukan build schema yang telah kita buat dan ak
 
 Kemudian jalankan perintah berikut untuk menjalankan code generator pada isar database
 
-`flutter pub run build_runner build`
+```sh
+flutter pub run build_runner build
+```
 
 ### Database Service
 
